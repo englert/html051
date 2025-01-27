@@ -1,7 +1,7 @@
 # html051 Listák
 - A feladatsor Sallai András munkája alapján készült 
-- Licenc: CC BY-SA 4.0
 - https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok#feladat_051
+- Licenc: CC BY-SA 4.0
 
 1. Töltse le a repositoryt
 2. Állítsa be az oldal nyelvét magyarra.

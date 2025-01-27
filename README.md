@@ -5,7 +5,7 @@
 
 1. Töltse le a repositoryt
 2. Állítsa be az oldal nyelvét magyarra.
-3. A weboldal számára olyan karakterkódolást állítson be, amellyel az összes magyar ékezetes megjeleníthető.
+3. A weboldal számára olyan karakterkódolást állítson be, amellyel az összes magyar ékezet megjeleníthető.
 4. A böngésző fülön a „MIPS” szó jelenjen meg.
 5. A lap tetején készítsen, egyes szintű fejezetcímet „MIPS” néven.
 6. Mind a négy bekezdés legyen bekezdésnek jelölve
